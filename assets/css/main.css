@@ -55,9 +55,8 @@ a {
 }
 
 .noticia {
-    width: 300px;
-    display: inline-block;
-    margin: 5px;
+    width: 33.3%;
+    float: left;;
     cursor: pointer;
     background-color: white;
 }
