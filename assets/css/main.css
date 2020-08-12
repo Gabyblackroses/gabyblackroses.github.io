@@ -55,10 +55,10 @@ a {
 }
 
 .noticia {
-    width: 33.3%;
-    cursor: pointer;
-    background-color: white;
+    width: 33.3;
     float: left;
+    cursor: pointer;
+    background-color: white;   
 }
 
 .cuerpo img {
