@@ -55,11 +55,10 @@ a {
 }
 
 .noticia {
-    width: 300px;
-    display: inline-block;
-    margin: 5px;
+    width: 33.3%;
     cursor: pointer;
     background-color: white;
+    float: left;
 }
 
 .cuerpo img {
